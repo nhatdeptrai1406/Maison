@@ -11,7 +11,7 @@ export const placeImages = {
   7: "/images/places/giat-say-ca-heo.png",
   8: "/images/places/eximbank.png",
   9: "/images/places/MSB.jpg",
-  10: "/images/places/bac-a-bank.png",
+  10: "/images/places/bac-a.png",
   11: "/images/places/thaocamvien.jpg",
   12: "/images/places/landmark-81.jpg",
   13: "/images/places/dau-homemade.avif",
